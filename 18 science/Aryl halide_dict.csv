@@ -1,0 +1,15 @@
+ClC1=NC=CC=C1,Aryl halide_1
+BrC1=NC=CC=C1,Aryl halide_2
+IC1=CC=C(CC)C=C1,Aryl halide_3
+ClC1=CC=C(C(F)(F)F)C=C1,Aryl halide_4
+ClC1=CC=C(OC)C=C1,Aryl halide_5
+BrC1=CN=CC=C1,Aryl halide_6
+IC1=NC=CC=C1,Aryl halide_7
+BrC1=CC=C(CC)C=C1,Aryl halide_8
+ClC1=CN=CC=C1,Aryl halide_9
+ClC1=CC=C(CC)C=C1,Aryl halide_10
+IC1=CN=CC=C1,Aryl halide_11
+BrC1=CC=C(OC)C=C1,Aryl halide_12
+IC1=CC=C(C(F)(F)F)C=C1,Aryl halide_13
+IC1=CC=C(OC)C=C1,Aryl halide_14
+BrC1=CC=C(C(F)(F)F)C=C1,Aryl halide_15

@@ -1,0 +1,5 @@
+SC1=CC=CC=C1C,Thiol_1
+SC1=CC=C(OC)C=C1,Thiol_2
+SC1=CC=CC=C1,Thiol_3
+CCS,Thiol_4
+SC1CCCCC1,Thiol_5
